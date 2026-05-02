@@ -16,6 +16,21 @@ The lab includes intentional bug scenarios, runbooks for investigating each one,
 
 ---
 
+## 💡 Why This Project
+
+This lab demonstrates how real-world data integration issues are reproduced, diagnosed, and resolved in production environments.
+
+It reflects the type of work performed in:
+- data platform engineering
+- developer support roles (e.g., Airbyte, Fivetran)
+- technical support for API-driven SaaS systems
+
+Key capabilities demonstrated:
+- Designing safe incremental sync mechanisms
+- Handling edge cases like timestamp collisions
+- Ensuring data correctness with upsert strategies
+- Debugging and documenting production failures through runbooks
+
 ## 🧰 Tech Stack
 
 - **Language** — Python 3.8+
