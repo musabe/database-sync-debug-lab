@@ -191,4 +191,4 @@ All settings are read from environment variables. Copy `.env.example` to `.env` 
 Senior Technical Support Engineer
 Focused on API-driven SaaS, data integration, and developer-facing support
 
-[github.com/mabella1](https://github.com/mabella1)
+[github.com/mabella1](https://github.com/musabe)
